@@ -1,0 +1,17 @@
+{
+  "name": "gohitech-user",
+  "version": "0.1.0",
+  "author": "Dean Taylor <dean@gohitech.net>",
+  "summary": "Wrapper module for user management",
+  "license": "Apache 2.0",
+  "source": "https://github.com/dean-taylor/gohitech-user",
+  "project_page": "https://github.com/dean-taylor/gohitech-user",
+  "issues_url": "https://github.com/dean-taylor/gohitech-user/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
